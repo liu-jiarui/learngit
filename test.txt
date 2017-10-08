@@ -6,3 +6,4 @@ Creating a new branch is quick & simple.
 just for test
 just for test
 >>>>>>> feature1
+//注释1
